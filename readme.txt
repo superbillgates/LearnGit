@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git is connected with Github.
 Creating a new branch is quick and simple.
 test merge
+stes stage
